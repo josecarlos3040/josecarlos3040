@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/josecarlos3040">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josecarlos3040&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlos3040&layout=compact&langs_count=6&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=josecarlos3040&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlos3040&layout=compact&langs_count=6&theme=dracula&cache_seconds=86400"/>
   </a>
 </div>
 
@@ -44,8 +44,3 @@
 - 🚀 Sempre explorando novas ideias e projetos
 
 ---
-
-<div align="center">
-  <img alt="perfil" height="150" style="border-radius:50px;"
-    src="https://cdn.discordapp.com/attachments/876601348282523732/1017894410459037767/imagem.png">
-</div>
