@@ -3,8 +3,7 @@
 <div align="center">
 
 <!-- Stats (usando mirror mais estável) -->
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josecarlos3040&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josecarlos3040&layout=compact&langs_count=6&theme=dracula"/>
+
 
 </div>
 
